@@ -1,1 +1,86 @@
-hi brother and sister h
+hi brother and sister 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Sale4u (Flipkart Affiliate Marketer)</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      padding: 20px;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      border-radius: 10px;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    .details {
+      margin-bottom: 20px;
+    }
+
+    h1 {
+      color: #222;
+      font-size: 24px;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+    p {
+      margin: 5px 0;
+    }
+
+    .buttons {
+      margin-top: 25px;
+      text-align: center;
+    }
+
+    .buttons a {
+      padding: 16px 30px;
+      background-color: #2874F0;
+      color: white;
+      border-radius: 8px;
+      font-size: 20px;
+      font-weight: bold;
+      text-decoration: none;
+      display: inline-block;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 40px;
+      font-size: 14px;
+      color: #888;
+    }
+
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Sale4u (Flipkart Affiliate Marketer)</h1>
+
+    <div class="details">
+      <p><strong>Product:</strong> Stylish Relaxed Fit Jeans</p>
+      <p><strong>Price:</strong> ₹414</p>
+      <p><strong>Colors:</strong> Aegeon Blue, Light Blue, Ice Grey, Jet Black</p>
+      <p><strong>Fit Type:</strong> Relaxed Fit, Loose Fit, Baggy Fit</p>
+      <p><strong>Style:</strong> Streetwear, Urban Casual, Daily Casual</p>
+      <p><strong>Leg Style:</strong> Wide Leg, Straight Leg</p>
+      <div class="buttons">
+        <a href="https://fktr.in/sjOnwQJ" target="_blank">🛒 Buy on Flipkart</a>
+      </div>
+    </div>
+
+    <footer>
+      © 2025 Sale4u. All rights reserved.
+    </footer>
+  </div>
+</body>
+</html>
